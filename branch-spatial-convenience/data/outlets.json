@@ -1,0 +1,14 @@
+{
+  "schema": "branch-spatial-convenience/v1",
+  "services": ["cash", "fx", "cards", "business", "digital", "trade"],
+  "outlets": [
+    {"id":"01","name":"CBD Branch","services":["cash","fx","cards"],"estimatedTime":"7 min"},
+    {"id":"02","name":"Westlands","services":["business","cash","fx"],"estimatedTime":"11 min"},
+    {"id":"03","name":"Kilimani","services":["cash","cards","digital"],"estimatedTime":"14 min"},
+    {"id":"04","name":"Karen","services":["cash","cards"],"estimatedTime":"18 min"},
+    {"id":"05","name":"Upper Hill","services":["business","cash","fx"],"estimatedTime":"19 min"},
+    {"id":"06","name":"Thika Road","services":["cash","cards","business"],"estimatedTime":"22 min"},
+    {"id":"07","name":"Industrial Area","services":["business","cash","trade"],"estimatedTime":"25 min"},
+    {"id":"08","name":"Mombasa Road","services":["business","cash","trade"],"estimatedTime":"28 min"}
+  ]
+}
